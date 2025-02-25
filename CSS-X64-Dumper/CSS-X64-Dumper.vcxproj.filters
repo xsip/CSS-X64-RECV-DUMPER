@@ -21,12 +21,18 @@
     <ClCompile Include="main.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="client.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="memory.h">
       <Filter>Header Files\Generator</Filter>
     </ClInclude>
-    <ClInclude Include="ClientClassEx.h">
+    <ClInclude Include="Client.h">
+      <Filter>Header Files\Generator</Filter>
+    </ClInclude>
+    <ClInclude Include="required.h">
       <Filter>Header Files\Generator</Filter>
     </ClInclude>
   </ItemGroup>
